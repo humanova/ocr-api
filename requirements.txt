@@ -1,0 +1,7 @@
+aiohttp==3.3.2
+urllib3==1.25
+requests==2.21.0
+websockets==6.0
+flask==1.1.1
+pytesseract
+PIL
